@@ -1,0 +1,6 @@
+src/semantic/src/*
+src/semantic/tasks/*
+src/semantic/gulpfile.js
+src/semantic/
+node_modules
+img
